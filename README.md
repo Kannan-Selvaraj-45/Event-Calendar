@@ -2,6 +2,13 @@
 
 A fully functional and dynamic calendar events application built with **React** and styled using **Tailwind CSS**. This project allows users to create, update, and manage events seamlessly with a clean and user-friendly interface.
 
+## Demo
+
+You can view a live demo of the application by visiting the following link:
+
+[Calendar and Task Management Application Demo](https://kannanselvaraj-calendar-task.netlify.app)
+
+
 ## 🌟 Features
 
 - **Add Events**: Create new events by specifying details such as title, date, and time.
